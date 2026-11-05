@@ -1,0 +1,9 @@
+tools/PRIVATE_signing_key.pem
+tools/issued_licenses.csv
+mathdraw/assets/hand_landmarker.task
+.venv*/
+build/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/

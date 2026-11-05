@@ -1,0 +1,43 @@
+=====================================================================
+ TEMPLATE — replace [BRACKETED] items and have it reviewed before release.
+ Delete this box when done.
+=====================================================================
+
+PRIVACY POLICY — [PRODUCT NAME]                        Last updated: [DATE]
+
+Short version: your camera image never leaves your computer, and the app does not
+collect, send or sell any personal data.
+
+CAMERA
+The app reads frames from your webcam only while it is running, to find the position of
+your hand.  Frames are processed in memory on your computer and discarded immediately.
+The app never records, saves or uploads video or images of you.  ("Export graph with
+camera" saves a picture only when you choose it, to a location you pick.)
+
+NETWORK
+The installed app makes no internet connections.  The only exceptions are links you
+click yourself (Buy, website, e-mail support), which open in your browser or e-mail app.
+
+DATA STORED ON YOUR COMPUTER
+The app saves, in %LOCALAPPDATA%\[APP_ID]\ on your computer only:
+  • your settings, last drawing and last equation (state.json);
+  • your licence key, if you entered one;
+  • diagnostic log files (logs\), which contain technical messages, not camera data.
+Uninstalling leaves this folder so your licence survives upgrades; delete it to remove
+everything.
+
+PURCHASES
+Payments are processed by [RESELLER, e.g. Lemon Squeezy / Paddle / Gumroad], which acts as
+merchant of record.  Its privacy policy applies to the purchase: [LINK].  We receive your
+name and e-mail address to deliver your licence key and provide support, and keep them
+for [PERIOD] for that purpose only.
+
+SUPPORT
+If you e-mail us, we use your message (and any log file you choose to attach) only to help
+you.
+
+CHILDREN
+The app collects no personal data from anyone, including children.
+
+CONTACT
+[YOUR COMPANY NAME], [ADDRESS], [SUPPORT EMAIL]

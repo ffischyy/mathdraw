@@ -1,0 +1,29 @@
+THIRD-PARTY SOFTWARE NOTICES
+
+This application is built with the open-source components below.  The full licence text of
+every bundled Python package is in the "licenses" folder next to the application
+(licenses\PACKAGES.txt lists them with versions).
+
+Component                 Licence                         Source
+------------------------  ------------------------------  -----------------------------------------
+Qt 6 (via PySide6)        GNU LGPL v3                     https://www.qt.io  /  https://download.qt.io
+PySide6 / Shiboken6       GNU LGPL v3                     https://wiki.qt.io/Qt_for_Python
+MediaPipe + hand model    Apache License 2.0              https://github.com/google-ai-edge/mediapipe
+OpenCV                    Apache License 2.0              https://opencv.org
+FFmpeg (in Qt Multimedia  GNU LGPL v2.1 or later          https://ffmpeg.org
+  and OpenCV builds)
+NumPy                     BSD 3-Clause                    https://numpy.org
+SciPy                     BSD 3-Clause                    https://scipy.org
+SymPy / mpmath            BSD 3-Clause                    https://sympy.org
+Matplotlib                Matplotlib licence (PSF-based)  https://matplotlib.org
+contourpy / kiwisolver    BSD 3-Clause                    https://github.com/contourpy
+Pillow                    MIT-CMU (HPND)                  https://python-pillow.org
+cryptography              Apache 2.0 / BSD                https://cryptography.io
+Python                    PSF License                     https://python.org
+
+LGPL NOTICE
+Qt, PySide6 and FFmpeg are used unmodified and are dynamically linked: they are separate
+library files in the application folder that you may replace with your own builds.  The
+corresponding source code is available from the URLs above; on request we will also provide
+it, or a written offer for it, at no more than the cost of distribution — contact
+[SUPPORT EMAIL].

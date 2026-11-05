@@ -1,0 +1,74 @@
+=====================================================================
+ TEMPLATE — NOT LEGAL ADVICE.  Replace every [BRACKETED] item and have
+ a lawyer in your jurisdiction review this before you sell the product.
+ Delete this box when done.
+=====================================================================
+
+END USER LICENCE AGREEMENT — [PRODUCT NAME]
+
+This End User Licence Agreement ("Agreement") is between you and [YOUR COMPANY NAME]
+("we", "us").  By installing or using [PRODUCT NAME] (the "Software") you agree to it.
+If you do not agree, do not install or use the Software.
+
+1. LICENCE
+   Subject to this Agreement and payment of the applicable fee, we grant you a
+   non-exclusive, non-transferable licence to install and use the Software on up to
+   [3] computers that you own or control, for personal, educational or internal
+   business use.  The Software is licensed, not sold.
+
+2. FREE TRIAL
+   You may use the Software free of charge for [14] days to evaluate it.  After the
+   trial you must purchase a licence key to continue using it.
+
+3. RESTRICTIONS
+   Except as expressly permitted by this Agreement or by applicable law, you may not:
+   (a) sell, rent, lease, sublicense or redistribute the Software or licence keys;
+   (b) share your licence key publicly or with people outside your licence;
+   (c) remove or alter any proprietary notices; or
+   (d) circumvent the licence-key or trial mechanism.
+
+4. OPEN-SOURCE COMPONENTS
+   The Software includes third-party open-source components listed in
+   THIRD_PARTY_NOTICES.txt and the "licenses" folder.  Those components are licensed
+   to you under their own licences, which prevail over this Agreement for those
+   components.  In particular, the Qt libraries are used under the GNU Lesser General
+   Public License v3; nothing in this Agreement restricts your right to modify and
+   replace those libraries or to reverse-engineer the Software for the purpose of
+   debugging such modifications.
+
+5. PRIVACY
+   The Software processes your camera image locally on your computer and does not
+   transmit it.  See PRIVACY.txt.
+
+6. OWNERSHIP
+   We (and our licensors) retain all rights, title and interest in the Software.
+
+7. EDUCATIONAL TOOL — NO GUARANTEE OF MATHEMATICAL CORRECTNESS
+   The Software estimates equations from hand-drawn input.  A drawing cannot uniquely
+   determine a formula; results may be approximate or wrong.  Verify important results
+   independently.  Do not rely on the Software where errors could cause harm or loss.
+
+8. REFUNDS
+   Refunds are handled according to [the refund policy of our reseller / our refund
+   policy at URL].
+
+9. DISCLAIMER OF WARRANTY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+10. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY ARISING OUT OF OR RELATING
+   TO THE SOFTWARE IS LIMITED TO THE AMOUNT YOU PAID FOR IT, AND WE ARE NOT LIABLE FOR
+   ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES.  Some jurisdictions do not
+   allow these limitations, so they may not apply to you; your statutory consumer rights
+   are not affected.
+
+11. TERMINATION
+   This licence ends automatically if you breach this Agreement.  You must then stop
+   using and uninstall the Software.
+
+12. GOVERNING LAW
+   This Agreement is governed by the laws of [STATE/COUNTRY].
+
+Contact: [SUPPORT EMAIL]

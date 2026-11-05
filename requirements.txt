@@ -1,0 +1,10 @@
+PySide6>=6.6,<7
+mediapipe>=0.10.14
+# mediapipe already installs opencv-contrib-python; do NOT also install opencv-python (both provide cv2)
+numpy>=1.26
+scipy>=1.11
+sympy>=1.12
+matplotlib>=3.8
+contourpy>=1.2
+cryptography>=42
+pytest>=7.4
